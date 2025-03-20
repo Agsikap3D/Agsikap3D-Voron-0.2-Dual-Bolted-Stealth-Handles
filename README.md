@@ -14,7 +14,8 @@ https://www.printables.com/@Agsikap3D_2775778
 ```
 4 pcs - M3x16 Bolts (BHCS or SHCS)  
 4 pcs - M3 Nuts  
-2 pcs - Printed Parts: Dual Bolted Stealth Handles 
+2 pcs - Printed Parts:
+        2 - Dual Bolted Stealth Handles 
 ```
 Voron parts print settings, STL files are already oriented for printing.  
 Material: ASA or ABS recommended
