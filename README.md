@@ -7,7 +7,7 @@
 This is a remix of the Voron V0 Stealth Handles by Maple Leaf Makers :  
 https://www.printables.com/model/481575-voron-v0-stealth-handles
 
-You can also access the files thru my printables page:  
+You can also access the STL files thru my printables page:  
 https://www.printables.com/@Agsikap3D_2775778
 
 # BOM and Printing Parts:  
