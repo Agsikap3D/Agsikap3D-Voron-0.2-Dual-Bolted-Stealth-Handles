@@ -1,5 +1,6 @@
 # Voron-0.2-Dual-Bolted-Stealth-Handles
 :warning: Preloading of M3 nuts is needed!
+:warning: Compatible with 3mm panels only!
 
 ![Image](https://github.com/user-attachments/assets/1de26b08-b639-48dd-b7e4-f878b115a023)
 
