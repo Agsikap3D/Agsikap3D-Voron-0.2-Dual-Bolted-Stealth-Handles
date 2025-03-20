@@ -1,8 +1,6 @@
 # Voron-0.2-Dual-Bolted-Stealth-Handles
 :warning: Preloading of M3 nuts is needed!
 
-Safer stealth handles? I guess
-
 ![Image](https://github.com/user-attachments/assets/1de26b08-b639-48dd-b7e4-f878b115a023)
 
 This is a remix of the Voron V0 Stealth Handles by Maple Leaf Makers :  
@@ -21,7 +19,7 @@ Voron parts print settings, STL files are already oriented for printing.
 Material: ASA or ABS recommended
 
 # Installation Notes:  
-1.) Replaces existing top middle clip for panels.  
+1.) Replaces existing top middle clip of side panels.  
 
 ![Image](https://github.com/user-attachments/assets/abeebc79-d3d3-4485-96e5-70c4b3a48598)
 
