@@ -11,11 +11,11 @@ You can also access the STL files thru my printables page:
 https://www.printables.com/@Agsikap3D_2775778
 
 # BOM and Printing Parts:  
-
-4 pcs - M3x16 Bolts  
+```
+4 pcs - M3x16 Bolts (BHCS or SHCS)  
 4 pcs - M3 Nuts  
 2 pcs - Printed Parts: Dual Bolted Stealth Handles 
-
+```
 Voron parts print settings, STL files are already oriented for printing.  
 Material: ASA or ABS recommended
 
