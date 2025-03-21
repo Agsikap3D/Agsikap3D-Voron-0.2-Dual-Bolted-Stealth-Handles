@@ -14,9 +14,10 @@ https://www.printables.com/model/481575-voron-v0-stealth-handles
 2 pcs - Printed Parts:
         2 - Handles 
 ```
-Voron parts print settings.  
-STL files are already oriented for printing.   
-Material: ASA or ABS recommended
+- Voron parts print settings
+- No supports
+- STL files are already oriented for printing  
+- Material: ASA or ABS recommended
 
 You can also access the STL files thru my printables page:  
 https://www.printables.com/@Agsikap3D_2775778
