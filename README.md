@@ -7,18 +7,19 @@
 This is a remix of the Voron V0 Stealth Handles by Maple Leaf Makers :  
 https://www.printables.com/model/481575-voron-v0-stealth-handles
 
-You can also access the STL files thru my printables page:  
-https://www.printables.com/@Agsikap3D_2775778
-
 # BOM and Printing Parts:  
 ```
 4 pcs - M3x16 Bolts (BHCS or SHCS)  
 4 pcs - M3 Nuts  
 2 pcs - Printed Parts:
-        2 - Dual Bolted Stealth Handles 
+        2 - Handles 
 ```
-Voron parts print settings, STL files are already oriented for printing.  
+Voron parts print settings.  
+STL files are already oriented for printing.   
 Material: ASA or ABS recommended
+
+You can also access the STL files thru my printables page:  
+https://www.printables.com/@Agsikap3D_2775778
 
 # Installation Notes:  
 1.) Replaces existing top middle clip of side panels.  
